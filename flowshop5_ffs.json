@@ -1,4 +1,4 @@
-{
+{ "name": "flowshop5",
   "n_jobs": 30,
   "n_stages": 15,
   "machines_per_stage": [
